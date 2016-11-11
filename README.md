@@ -18,6 +18,6 @@ and the autput should be:
 	</tr>
 </table>
 ```
-Please use [typescript](https://www.typescriptlang.org/)
+Please use [typescript](https://www.typescriptlang.org/). 
 More about [emmet](http://docs.emmet.io/)  you can find here
 
